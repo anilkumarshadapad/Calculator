@@ -1,0 +1,10 @@
+D:\prc29-7-2019\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+D:\prc29-7-2019\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+D:\prc29-7-2019\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.Calculater.resources
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+D:\prc29-7-2019\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
